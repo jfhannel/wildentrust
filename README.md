@@ -1,0 +1,1 @@
+- Conda Jupyter setup: https://towardsdatascience.com/get-your-conda-environment-to-show-in-jupyter-notebooks-the-easy-way-17010b76e874

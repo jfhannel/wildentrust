@@ -1,0 +1,7 @@
+name: wild
+channels:
+  - conda-forge
+dependencies:
+  - sentinelsat
+  - geojson
+  - webbrowser
